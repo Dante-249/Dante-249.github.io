@@ -1,6 +1,7 @@
 .main {
   border: 5px outset rgb(0, 0, 0);
   border-width: 0cap;
+  color: rgb(35, 255, 2);
 }
 .name {
   background-color: lightblue;
@@ -8,7 +9,7 @@
 }
 .section {
   text-align: justify;
-  background-image: url("paper.png");
+  background-image: url("paper.jpg");
 }
 img {
   object-fit: cover;
