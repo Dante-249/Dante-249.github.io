@@ -1,5 +1,11 @@
+<<<<<<< HEAD
+.main {
+  border: 5px outset rgb(0, 0, 0);
+}
+=======
 .main {
   border: 5px outset rgb(0, 0, 0);}
+>>>>>>> 9882c187cd01050481cafba8daca711b1676dac1
 .name {
   background-color: lightblue;
   text-align: center;
@@ -9,6 +15,6 @@
   text-align: justify;
   background-image: url("paper.jpg");
 }
-img{
+img {
   object-fit: fill;
 }
