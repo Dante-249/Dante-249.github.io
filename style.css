@@ -10,6 +10,5 @@
   background-image: url("paper.jpg");
 }
 img {
-  object-fit: cover;
+  object-fit:contain;
 }
-
