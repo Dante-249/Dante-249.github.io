@@ -10,5 +10,5 @@
   background-image: url("paper.jpg");
 }
 img {
-  object-fit:contain;
+  object-fit:fill;
 }
