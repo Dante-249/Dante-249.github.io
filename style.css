@@ -1,3 +1,5 @@
+.main {
+  border: 5px outset rgb(0, 0, 0);}
 .name {
   background-color: lightblue;
   text-align: center;
