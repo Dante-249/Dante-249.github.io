@@ -5,10 +5,15 @@
 }
 .para {
   border: 5px outset rgb(0, 0, 0);
-  background-color: rgb(70, 27, 225);
+  background-color: rgb(126, 99, 51);
   text-align: justify;
 }
 .para2 {
+  border: 5px outset rgb(0, 0, 0);
+  background-color: rgb(179, 225, 27);
+  text-align: justify;
+}
+.section {
   border: 5px outset rgb(0, 0, 0);
   background-color: rgb(179, 225, 27);
   text-align: justify;
