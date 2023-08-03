@@ -7,3 +7,6 @@
   text-align: justify;
   background-image: url("paper.jpg");
 }
+img{
+  object-fit: fill;
+}
