@@ -17,14 +17,17 @@
 }
 
 .name {
-  background-color: rgb(27, 160, 205);
+  background-color: #0984e3;
   text-align: center;
   border-style: none;
 }
 .section {
   text-align: justify;
   background-image: url("paper.jpg") style= "width: 100%";
+  justify-content: center;
+  text-align: center;
 }
 img {
   object-fit: fill;
+  position: absolute;
 }
